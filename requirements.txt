@@ -1,0 +1,6 @@
+mediapipe
+beautifulsoup4
+lxml
+pandas
+fasttext
+langdetect
